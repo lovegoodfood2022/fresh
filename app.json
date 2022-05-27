@@ -1,6 +1,6 @@
 {
-    "name": "HX",
-    "description": "Powered By Misaka-blog",
+    "name": "fresh",
+    "description": "fresh",
     "keywords": [],
     "env": {
         "TYPE": {
@@ -9,10 +9,10 @@
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
-            "value": "1eb6e917-774b-4a84-aff6-b058577c60a5"
+            "value": "08ed2188-087a-11eb-adc1-0242ac120002"
         }
     },
-    "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/Misaka-blog/HX",
+    "website": "",
+    "repository": "",
     "stack": "container"
 }
